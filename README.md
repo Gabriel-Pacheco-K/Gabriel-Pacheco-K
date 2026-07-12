@@ -1,5 +1,6 @@
-[README_perfil.md](https://github.com/user-attachments/files/29946027/README_perfil.md)
-### Olá, sou o Gabriel 👋
+Olá, sou o Gabriel 👋
+
+![snake gif](https://raw.githubusercontent.com/Gabriel-Pacheco-K/Gabriel-Pacheco-K/output/github-contribution-grid-snake.svg)
 
 Desenvolvedor **back-end** que gosta de resolver problemas com **Java** e **Spring Boot** — do design da API até a modelagem do banco de dados.
 
