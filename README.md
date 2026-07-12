@@ -1,6 +1,10 @@
 Olá, sou o Gabriel 👋
 
-![snake gif](https://raw.githubusercontent.com/Gabriel-Pacheco-K/Gabriel-Pacheco-K/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Pacheco-K/Gabriel-Pacheco-K/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Pacheco-K/Gabriel-Pacheco-K/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/Gabriel-Pacheco-K/Gabriel-Pacheco-K/output/github-contribution-grid-snake.svg">
+</picture>
 
 Desenvolvedor **back-end** que gosta de resolver problemas com **Java** e **Spring Boot** — do design da API até a modelagem do banco de dados.
 
