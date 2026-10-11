@@ -8,7 +8,7 @@ Olá, sou o Gabriel 👋
 
 Desenvolvedor **back-end** que gosta de resolver problemas com **Java** e **Spring Boot** — do design da API até a modelagem do banco de dados.
 
-Curto entender o "porquê" por trás de cada decisão técnica, não só o "como". Cada projeto abaixo nasceu de uma pergunta que eu quis responder na prática: como estruturar uma autenticação segura? Como modelar um CRUD que aguenta regras de negócio de verdade?
+Curto entender o "porquê" por trás de cada decisão técnica, não só o "como". Cada projeto abaixo nasceu de uma pergunta que eu quis responder na prática: como estruturar uma autenticação segura? Como modelar um CRUD que aguenta regras de negócio de verdade? Como impedir que duas pessoas reservem o mesmo horário ao mesmo tempo?
 
 ---
 
@@ -20,15 +20,20 @@ Curto entender o "porquê" por trás de cada decisão técnica, não só o "como
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ### 📌 Projetos em destaque
 
-- 🔗 **[API REST — Cadastro de Clientes](https://github.com/Gabriel-Pacheco-K/api-rest-clientes)** — CRUD completo com Java, Spring Boot e PostgreSQL
+- 📅 **[Agendamento API](https://github.com/Gabriel-Pacheco-K/agendamento-api)** — Horários livres e reservas simultâneas sem horário duplicado (trava pessimista comprovada por teste concorrente)
+- 🔗 **[Encurtador de URL](https://github.com/Gabriel-Pacheco-K/encurtador-url)** — Redirecionamento com cache em Redis, cliques assíncronos e painel de estatísticas
+- 💰 **[Finanças API](https://github.com/Gabriel-Pacheco-K/financas-api)** — Autenticação JWT, filtros, relatório mensal, Docker e CI
 - 🔐 **[Sistema de Login](https://github.com/Gabriel-Pacheco-K/sistema-login-java)** — Autenticação com Spring Security e BCrypt
-- 🌳 **[Árvore Binária](https://github.com/Gabriel-Pacheco-K/arvore-binaria-java)** — Estruturas de dados em Java
 - 🌐 **[Portfólio Pessoal](https://gabriel-pacheco-k.github.io)** — Site desenvolvido do zero com HTML, CSS e JS
 
 ---
