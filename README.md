@@ -42,4 +42,4 @@ Curto entender o "porquê" por trás de cada decisão técnica, não só o "como
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pacheco-3b637a362/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabriellpacheco.k@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-4ade80?style=flat&logo=googlechrome&logoColor=white)](https://gabriel-pacheco-k.github.io)
+[![Portfólio](https://img.shields.io/badge/Portfólio-a78bfa?style=flat&logo=googlechrome&logoColor=white)](https://gabriel-pacheco-k.github.io)
