@@ -20,6 +20,7 @@ Curto entender o "porquê" por trás de cada decisão técnica, não só o "como
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
@@ -30,10 +31,10 @@ Curto entender o "porquê" por trás de cada decisão técnica, não só o "como
 
 ### 📌 Projetos em destaque
 
+- 📦 **[Pedidos com RabbitMQ](https://github.com/Gabriel-Pacheco-K/pedidos-rabbitmq)** — Microsserviços com saga coreografada: eventos assinados com Ed25519, outbox, inbox idempotente e ataques testados
 - 📅 **[Agendamento API](https://github.com/Gabriel-Pacheco-K/agendamento-api)** — Horários livres e reservas simultâneas sem horário duplicado (trava pessimista comprovada por teste concorrente)
 - 🔗 **[Encurtador de URL](https://github.com/Gabriel-Pacheco-K/encurtador-url)** — Redirecionamento com cache em Redis, cliques assíncronos e painel de estatísticas
 - 💰 **[Finanças API](https://github.com/Gabriel-Pacheco-K/financas-api)** — Autenticação JWT, filtros, relatório mensal, Docker e CI
-- 🔐 **[Sistema de Login](https://github.com/Gabriel-Pacheco-K/sistema-login-java)** — Autenticação com Spring Security e BCrypt
 - 🌐 **[Portfólio Pessoal](https://gabriel-pacheco-k.github.io)** — Site desenvolvido do zero com HTML, CSS e JS
 
 ---
